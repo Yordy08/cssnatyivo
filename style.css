@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+hr.{
+ line-gap-override: 30; 
+ 
+}
+.logo{
+  position: relative;
+  left: 15px;
+  right: 15px;
+}
